@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+    <header>
+        <refId>9942BED</refId>
+        <statusCode>1006</statusCode>
+        <statusDesc>Service Exception</statusDesc>
+		<version>2.0</version>
+    </header>
+	<detail>
+		<activation>
+			<activationCode>actCode</activationCode>
+		</activation>
+	</detail>
+</response>
